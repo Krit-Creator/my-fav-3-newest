@@ -1,0 +1,68 @@
+body {
+
+    text-align: center;
+    background-color: Silver;
+    background-repeat: no-repeat;
+}
+
+img {
+    height: 180px;
+    border-radius: 30%;
+}
+
+h1 {
+    text-shadow: 2px 1px #089;
+}
+
+
+.menu {
+    list-style: none;
+    font-family: 'Pacifico', cursive;
+    cursor: pointer;
+}
+
+ .link:hover {
+
+    background-color: royalblue;
+
+
+
+}
+
+
+
+
+    position: fixed;
+    cursor: pointer;
+    right:30px;
+
+
+    img {
+        width: 30%;
+        height: 30%;
+
+    }
+
+    .link {
+        float: right;
+        padding: 5px;
+        font-size: 20px;
+    }
+
+p{ 
+text-shadow: 2px 1px #089;   
+}
+                             
+
+
+
+
+
+
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
